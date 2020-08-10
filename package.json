@@ -1,0 +1,30 @@
+{
+    "name": "insomnia-plugin-dork-theme",
+    "version": "1.0.0",
+    "author": {
+        "name": "xasx",
+        "email": "as.maps@gmail.com"
+    },
+    "description": "Dork themes for Insomnia",
+    "homepage": "https://github.com/xasx/insomnia-plugin-dork-theme",
+    "license": "MIT",
+    "main": "plugin.js",
+    "insomnia": {
+        "name": "dork-theme",
+        "description": "Dork theme by gpasq, modified fom Nord theme by arcticicestudio"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xasx/insomnia-plugin-dork-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/xasx/insomnia-plugin-dork-theme/issues"
+    },
+    "keywords": [
+        "nord",
+        "dork",
+        "theme",
+        "insomnia",
+        "insomnia-plugin"
+    ]
+}
