@@ -1,9 +1,9 @@
 {
     "name": "insomnia-plugin-dork-theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
-        "name": "xasx",
-        "email": "as.maps@gmail.com"
+        "name": "gpasq",
+        "email": "greg@pasq.net"
     },
     "description": "Dork themes for Insomnia",
     "homepage": "https://github.com/xasx/insomnia-plugin-dork-theme",
@@ -15,10 +15,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/xasx/insomnia-plugin-dork-theme.git"
+        "url": "https://github.com/gpasq/insomnia-plugin-dork-theme"
     },
     "bugs": {
-        "url": "https://github.com/xasx/insomnia-plugin-dork-theme/issues"
+        "url": "https://github.com/gpasq/insomnia-plugin-dork-theme/issues"
     },
     "keywords": [
         "nord",
