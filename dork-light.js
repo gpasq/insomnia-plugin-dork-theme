@@ -9,7 +9,7 @@ module.exports = {
             warning: '#CEA744',
             danger: '#CE6086',
             surprise: '#7F3C7F',
-            info: "#3295B1"
+            info: "#eceff4"
         },
         foreground: {
             default: '#2e3440',
