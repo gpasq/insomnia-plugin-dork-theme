@@ -40,13 +40,13 @@ module.exports = {
                     warning: '#CEA744',
                     danger: '#CE6086',
                     surprise: '#7F3C7F',
-                    info: '#3295B1'
+                    info: '#17406A'
                 },
                 foreground: {
                     default: '#3b4252'
                 },
                 highlight: {
-                    default: '#17406A'      // Sidebar general text
+                    default: '#4187A3'      // Sidebar general text
                 }
             },
             sidebarHeader: {
@@ -65,7 +65,7 @@ module.exports = {
                 background: {
                     default: '#2e3440',
                     success: '#58965C',
-                    notice: '#81a1c1',
+                    notice: '#4187A3',
                     warning: '#DAAE52',
                     danger: '#bf616a',
                     surprise: '#b48ead',
@@ -76,7 +76,7 @@ module.exports = {
                 background: {
                     default: '#eceff4',
                     success: '#17406A',     // item name
-                    notice: '#3B86D4',      // string value
+                    notice: '#4187A3',      // string value
                     warning: '#CEA744',
                     danger: '#CE6086',
                     surprise: '#7F3C7F',    // number/boolean values
