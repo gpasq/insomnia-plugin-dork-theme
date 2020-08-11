@@ -4,16 +4,16 @@ module.exports = {
     theme: {
         background: {
             default: '#eceff4',
-            success: '#a3be8c',
-            notice: '#8fbcbb',
-            warning: '#ebcb8b',
-            danger: '#bf616a',
-            surprise: '#b48ead',
-            info: '#88c0d0'
+            success: '#17406A',
+            notice: '#3B86D4',
+            warning: '#CEA744',
+            danger: '#CE6086',
+            surprise: '#7F3C7F',
+            info: "#3295B1"
         },
         foreground: {
             default: '#2e3440',
-            info: '#025ccf'
+            info: '#3B86D4'
         },
         styles: {
             transparentOverlay: {
@@ -35,18 +35,18 @@ module.exports = {
             sidebar: {
                 background: {
                     default: '#eceff4',
-                    success: '#a3be8c',
-                    notice: '#81a1c1',
-                    warning: '#ebcb8b',
-                    danger: '#bf616a',
-                    surprise: '#b48ead',
-                    info: '#434c5e'
+                    success: '#17406A',
+                    notice: '#434c5e',
+                    warning: '#CEA744',
+                    danger: '#CE6086',
+                    surprise: '#7F3C7F',
+                    info: '#3295B1'
                 },
                 foreground: {
                     default: '#3b4252'
                 },
                 highlight: {
-                    default: '#88c0d0'
+                    default: '#17406A'      // Sidebar general text
                 }
             },
             sidebarHeader: {
@@ -64,23 +64,23 @@ module.exports = {
                 },
                 background: {
                     default: '#2e3440',
-                    success: '#a3be8c',
+                    success: '#58965C',
                     notice: '#81a1c1',
-                    warning: '#ebcb8b',
+                    warning: '#DAAE52',
                     danger: '#bf616a',
                     surprise: '#b48ead',
                     info: '#eceff4'
                 }
             },
-            pane: {
+            pane: {                         // Input/Output pane
                 background: {
                     default: '#eceff4',
-                    success: '{{ styles.sidebar.background.success }}',
-                    notice: '{{ styles.sidebar.background.notice }}',
-                    warning: '{{ styles.sidebar.background.warning }}',
-                    danger: '{{ styles.sidebar.background.danger }}',
-                    surprise: '{{ styles.sidebar.background.surprise }}',
-                    info: '{{ styles.sidebar.background.info }}'
+                    success: '#17406A',     // item name
+                    notice: '#3B86D4',      // string value
+                    warning: '#CEA744',
+                    danger: '#CE6086',
+                    surprise: '#7F3C7F',    // number/boolean values
+                    info: "#3295B1"
                 },
                 foreground: {
                     default: '#2e3440',
