@@ -1,11 +1,11 @@
 {
     "name": "insomnia-plugin-dork-theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "gpasq",
         "email": "greg@pasq.net"
     },
-    "description": "Dork themes for Insomnia",
+    "description": "Dork light theme for Insomnia",
     "homepage": "https://github.com/xasx/insomnia-plugin-dork-theme",
     "license": "MIT",
     "main": "plugin.js",
